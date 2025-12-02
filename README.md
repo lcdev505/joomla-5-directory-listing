@@ -84,7 +84,7 @@ The plugin uses the following regex to find the content tag:
 ```php
 $regex = '/{folderlister\s+path="([^"]+)"}/i';
 
----
+```
 
 ## Contributing
 

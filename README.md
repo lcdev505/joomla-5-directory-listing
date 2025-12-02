@@ -84,6 +84,8 @@ The plugin uses the following regex to find the content tag:
 ```php
 $regex = '/{folderlister\s+path="([^"]+)"}/i';
 
-🤝 Contributing
+---
+
+## Contributing
 
 Contributions are welcome! If you have any suggestions, bug reports, or want to implement new features (like WebDAV support), please open an issue or a pull request.
